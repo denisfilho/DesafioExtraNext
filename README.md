@@ -14,5 +14,5 @@
 
 ## Complexidade
 <p align="justify">
-  Complexidade <b>O(log n)</b> –  Isso porque a Busca Binária consegue reduzir o volume de dados a serem analisados pela metade a cada iteração, fazendo com que o crescimento do número de operações é menor do que o do número de itens. E também porque a busca é de apenas um elemento que fosse Magic Index, caso fosse todos seria feita outra abordagem.
+  Complexidade <b>O(log n)</b> –  Isso porque a Busca Binária consegue reduzir o volume de dados a serem analisados pela metade a cada iteração, fazendo com que o crescimento do número de operações seja menor que o volume de dados. E também porque a busca é de apenas um elemento que fosse identificado como Magic Index. Caso fosse em encontrar todos os Magic Index do vetor, seria feita outra abordagem.
 </p>
